@@ -36,9 +36,8 @@ git push origin branch_name
 `git branch`
 
 * to create a branch `git checkout -b branch_name`
-
 * to move to a branch `git checkout branch_name`
 * to get the difference in main branch and other branch `git diff branchname`
 *
 
-![1722237645210](images/GITINFO/1722237645210.png)
+![1722238702388](images/GITINFO/1722238702388.png)
