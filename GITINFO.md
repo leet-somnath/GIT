@@ -1,3 +1,7 @@
+```
+
+```
+
 ---
 
 * to see the changes - git status
@@ -14,3 +18,11 @@
    ```
    git clone ssh-link
    ```
+
+* to add a file in the repositry
+
+  ```
+    git add file.txt
+  git commit -m "msg"
+  git push origin branch_name
+  ```
