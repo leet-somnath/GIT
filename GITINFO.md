@@ -32,10 +32,4 @@ git push origin branch_name
 
 `git log`
 
-To see at which branch we are :
 
-`git branch`
-
-to create a branch `git checkout -b branch_name`
-
-to move to a branch `git checkout branch_name`
