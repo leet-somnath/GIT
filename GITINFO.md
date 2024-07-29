@@ -29,17 +29,37 @@ git push origin branch_name
 
 * to get the history of your commits
 
-```git log```
+```
+git log
+```
 
 * To see at which branch we are :
 
-```git branch```
+```
+git branch
+```
 
-* to create a branch ```git checkout -b branch_name```
-* to move to a branch ```git checkout branch_name```
-* to get the difference in main branch and other branch ```git diff branchname```
+* to create a branch
+
+  ```git
+  git checkout -b branchname
+  ```
+* to move to a branch
+
+  ```
+  git checkout branch_name
+  ```
+* to get the difference in main branch and other branch
+
+  ```git
+  git diff branchname
+  ```
 * some commands for resolvind conflicts
 
 ![1722238702388](images/GITINFO/1722238702388.png)
 
-to pull : ```git pull orgin master ```
+to pull :
+
+```
+git pull origin master
+```
